@@ -5,3 +5,6 @@ gpg-fingerprint-filter-gpu
 *.pgp
 *.asc
 *.ptx
+__pycache__/
+*.py[cod]
+.pytest_cache/
